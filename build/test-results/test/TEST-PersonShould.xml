@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PersonShould" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-07-03T13:21:03" hostname="Damians-MacBook-Pro.local" time="0.067">
+  <properties/>
+  <testcase name="score_0_When_Person_Is_Allergic_To_Apples" classname="PersonShould" time="0.054"/>
+  <testcase name="return_cats_When_Person_Has_Score_128" classname="PersonShould" time="0.008"/>
+  <testcase name="score_2_When_Person_Is_Allergic_To_Peanuts" classname="PersonShould" time="0.001"/>
+  <testcase name="score_0_When_Person_Do_Not_Have_Allergies" classname="PersonShould" time="0.0"/>
+  <testcase name="score_3_When_Person_Is_Allergic_To_Eggs_And_Peanuts" classname="PersonShould" time="0.0"/>
+  <testcase name="return_All_Allergies_Alphabetically_When_Person_Has_Score_255" classname="PersonShould" time="0.0"/>
+  <testcase name="score_1_When_Person_Is_Allergic_To_Eggs" classname="PersonShould" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
